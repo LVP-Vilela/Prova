@@ -3,5 +3,8 @@
        <h1>Prova TPE</h1>
    </body>
 </html>
-<p>Conteúdo adicional</p>
 <p>Outra linha</p> 
+<--Resolvi manter assim pois, considerando 
+duas pessoas mechendo no arquivo, considerei 
+manter na ordem do que foi feito-->
+
